@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Solide Mirage_Etroit';
+    src:    url('Etroit/Solide_Mirage-Etroit_web.eot');
+    src:    url('Etroit/Solide_Mirage-Etroit_web.eot?#iefix') format('embedded-opentype'),
+            url('Etroit/Solide_Mirage-Etroit_web.woff2') format('woff2'),
+			;
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Solide Mirage';
+    src:    url('Mono/Solide_Mirage-Mono_web.woff2') format('woff2'),
+			;
+    font-weight: normal;
+    font-style: normal;
+}
+h1{
+	font-family: 'Solide Mirage';
+	color: red;
+}
